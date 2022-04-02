@@ -1,5 +1,6 @@
 # hello--world
-My first repository on GitHub 
+My first repository on GitHub
+
 My name is Vlad, i am 15.
 
 I am novice programmer, and start learning python.
