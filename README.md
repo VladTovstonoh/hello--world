@@ -9,4 +9,4 @@ I hope that i really become cool programmer.
 
 My email - vlad3006vlad@gmail.com
 
-I love 🍵,🍔,:pizza:, and 🏀
+I love 🍵,:pizza:, and 🏀
